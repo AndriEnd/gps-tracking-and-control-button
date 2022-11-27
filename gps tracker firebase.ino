@@ -16,11 +16,11 @@
 #define WIFI_PASSWORD "123456780"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDPQqiBpIUcA3gbBHSqfFGh6c0kTcKTYXo"
+#define API_KEY "AIzaSyDPQqiBpIUcA********TcKTYXo"
 
 // Insert RTDB URLefine the RTDB URL */
 #define FIREBASE_HOST "gpssurya-default-rtdb.firebaseio.com"                          // the project name address from firebase id
-#define FIREBASE_AUTH "BYIFh0dDjvG1rSTHVyXsMiUVzddq2B4Nbk1xVBaR"            // the secret key generated from firebase
+#define FIREBASE_AUTH "BYIFh0dDjvG*********4Nbk1xVBaR"            // the secret key generated from firebase
 #define DATABASE_URL "https://gpssurya-default-rtdb.firebaseio.com/"
 
 static const int RXPin = 16, TXPin = 17;
